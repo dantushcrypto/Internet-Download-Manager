@@ -1,3 +1,4 @@
+//This class is the engine behind the Graphical User Interface of the application.
 import javax.swing.*;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
